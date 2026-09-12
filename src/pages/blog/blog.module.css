@@ -1,0 +1,12 @@
+.blog_cont{
+    background-color: forestgreen;
+    padding: 20px 0;
+}
+
+
+.blog_back{
+    background-image: url(/blog_p/bl.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 100vh;
+}

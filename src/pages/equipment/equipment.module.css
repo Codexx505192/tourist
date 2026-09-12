@@ -1,0 +1,12 @@
+.equipment_block{
+    background-color: rebeccapurple;
+    padding: 20px 0;
+}
+
+
+.bkk{
+    background-image: url('/equipm/eq.png');
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 100vh;
+}
